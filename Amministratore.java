@@ -1,4 +1,4 @@
-package isw;
+package ISW_PROGETTO_GRUPPO12_OPTCorporation;
 
 public class Amministratore{
 
