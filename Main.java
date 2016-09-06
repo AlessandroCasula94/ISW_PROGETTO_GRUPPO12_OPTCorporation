@@ -2,7 +2,7 @@ package ISW_PROGETTO_GRUPPO12_OPTCorporation;
 
 import java.util.*;
 
-public class Test{
+public class Main{
 	public static void main(String args[]){
 		Database db = new Database();
 		db.setAmministratore("admin","admin");
